@@ -1,1 +1,1 @@
-# hikmah-speakers
+# hikmah-talks
